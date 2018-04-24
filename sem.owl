@@ -1,0 +1,217 @@
+[ {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Автомобильный_транспорт",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_транспортных_средств_и_технологий"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Инженерная_механика",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_механики_и_материаловедения"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Инженерное_материаловедение",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_механики_и_материаловедения"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Институт_электромеханики,_энергосбережения_и_систем_управлени",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Информатика",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_электроники_и_компьютерной_инженерии"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Компьютерная_инженерия",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_электроники_и_компьютерной_инженерии"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Компьютерные_системы_и_сети",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Кременчугский_колледж_КрНУ",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Маркетинг",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_управления"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Машиностроение",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_транспортных_средств_и_технологий"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Менеджмент",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_управления"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Производство_автомобилей_и_тракторов",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Кременчугский_колледж_КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Радиоэлектронные_аппараты",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_электроники_и_компьютерной_инженерии"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Системная_инженерия",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Институт_электромеханики,_энергосбережения_и_систем_управлени"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_4_курс_могут_поступить",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Информатика"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_колледж_могу_поступить_на",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Кременчугский_колледж_КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Технология_машиностроения",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Транспортные_технологии_(по_видам_транспорта)",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_транспортных_средств_и_технологий"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Учет_и_аудит",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Экономический_факультет"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_естественных_наук",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_механики_и_материаловедения",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_колледж_могу_поступить_на"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_права_и_гуманитарных_наук",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_транспортных_средств_и_технологий",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_колледж_могу_поступить_на"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_управления",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Факультет_электроники_и_компьютерной_инженерии",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_колледж_могу_поступить_на"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Финансы_и_кредит",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Кременчугский_колледж_КрНУ"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Экономический_факультет"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Экономика_предприятия",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Кременчугский_колледж_КрНУ"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Сокращенный_курс_обучения"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Экономический_факультет"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Экономический_факультет",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#КрНУ"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_4_курс_могут_поступить"
+  }, {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Студенты_закончившие_колледж_могу_поступить_на"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Электромеханика",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Институт_электромеханики,_энергосбережения_и_систем_управлени"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Электротехника_и_электротехнологии",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/настя/ontologies/2018/3/untitled-ontology-2#Институт_электромеханики,_энергосбережения_и_систем_управлени"
+  } ]
+} ]
